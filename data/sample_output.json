@@ -1,0 +1,37 @@
+[
+  {
+    "case": "Clean 60 bpm",
+    "hr": 59.6,
+    "spo2": 99.6,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "case": "Clean 75 bpm",
+    "hr": 74.8,
+    "spo2": 99.6,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "case": "Clean 90 bpm",
+    "hr": 89.8,
+    "spo2": 99.6,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "case": "Noisy 75 bpm",
+    "hr": 74.5,
+    "spo2": 99.3,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "case": "No Finger",
+    "hr": 0.0,
+    "spo2": 0.0,
+    "is_valid": false,
+    "error_code": 1
+  }
+]
