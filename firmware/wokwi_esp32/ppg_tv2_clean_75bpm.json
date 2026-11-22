@@ -1,5 +1,4 @@
 {
-    "_comment": "Dữ liệu mẫu tín hiệu PPG đo ở tần số 100Hz, nhịp tim chuẩn 75 bpm",
     "case":"Clean 75 bpm",
     "fs":100,
     "red":[95000,95075,95149,95221,95291,95356,95418,95473,95523,95567,
