@@ -22,8 +22,8 @@
   },
   {
     "case": "Noisy 75 bpm",
-    "hr": 74.5,
-    "spo2": 99.3,
+    "hr": 75.2,
+    "spo2": 99.0,
     "is_valid": true,
     "error_code": 0
   },
@@ -33,5 +33,12 @@
     "spo2": 0.0,
     "is_valid": false,
     "error_code": 1
+  },
+  {
+    "case": "Heavy Noise",
+    "hr": 0.0,
+    "spo2": 0.0,
+    "is_valid": false,
+    "error_code": 2
   }
 ]

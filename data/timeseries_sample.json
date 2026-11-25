@@ -1,0 +1,137 @@
+[
+  {
+    "device_id": "esp32_01",
+    "sequence": 1,
+    "timestamp": 1795619184,
+    "hr": 71.6,
+    "spo2": 99.6,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 2,
+    "timestamp": 1795619188,
+    "hr": 73.8,
+    "spo2": 99.7,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 3,
+    "timestamp": 1795619192,
+    "hr": 74.8,
+    "spo2": 99.6,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 4,
+    "timestamp": 1795619196,
+    "hr": 76.9,
+    "spo2": 99.7,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 5,
+    "timestamp": 1795619200,
+    "hr": 78.9,
+    "spo2": 99.6,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 6,
+    "timestamp": 1795619204,
+    "hr": 79.8,
+    "spo2": 99.7,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 7,
+    "timestamp": 1795619208,
+    "hr": 77.9,
+    "spo2": 99.8,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 8,
+    "timestamp": 1795619212,
+    "hr": 75.7,
+    "spo2": 99.6,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 9,
+    "timestamp": 1795619216,
+    "hr": 73.6,
+    "spo2": 99.6,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 10,
+    "timestamp": 1795619220,
+    "hr": 72.5,
+    "spo2": 99.7,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 11,
+    "timestamp": 1795619224,
+    "hr": 71.6,
+    "spo2": 99.7,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 12,
+    "timestamp": 1795619228,
+    "hr": 72.9,
+    "spo2": 99.7,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 13,
+    "timestamp": 1795619232,
+    "hr": 74.8,
+    "spo2": 99.7,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 14,
+    "timestamp": 1795619236,
+    "hr": 75.7,
+    "spo2": 99.7,
+    "is_valid": true,
+    "error_code": 0
+  },
+  {
+    "device_id": "esp32_01",
+    "sequence": 15,
+    "timestamp": 1795619240,
+    "hr": 73.8,
+    "spo2": 99.4,
+    "is_valid": true,
+    "error_code": 0
+  }
+]
