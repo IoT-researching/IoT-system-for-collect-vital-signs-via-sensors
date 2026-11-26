@@ -1,0 +1,13 @@
+test_clean_target_rates_are_within_two_bpm (test_week1_tv5.Week1PpgTests.test_clean_target_rates_are_within_two_bpm) ... ok
+test_fixture_shape_and_channel_lengths (test_week1_tv5.Week1PpgTests.test_fixture_shape_and_channel_lengths) ... ok
+test_missing_or_mismatched_samples_are_rejected_without_crash (test_week1_tv5.Week1PpgTests.test_missing_or_mismatched_samples_are_rejected_without_crash) ... ok
+test_no_finger_is_invalid_with_error_code_one (test_week1_tv5.Week1PpgTests.test_no_finger_is_invalid_with_error_code_one) ... ok
+test_noisy_reference_case_is_processed (test_week1_tv5.Week1PpgTests.test_noisy_reference_case_is_processed) ... ok
+test_non_finite_samples_and_invalid_sample_rate_are_rejected (test_week1_tv5.Week1PpgTests.test_non_finite_samples_and_invalid_sample_rate_are_rejected) ... ok
+test_wokwi_firmware_json_fixtures (test_week1_tv5.Week1PpgTests.test_wokwi_firmware_json_fixtures) ... ok
+test_zero_channels_are_invalid (test_week1_tv5.Week1PpgTests.test_zero_channels_are_invalid) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.020s
+
+OK
